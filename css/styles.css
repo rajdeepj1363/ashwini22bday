@@ -22,3 +22,18 @@
     float:right;
     width: 10vw;
 }
+
+@media screen and (max-width:576px)
+{
+    .div_img{
+        margin-top:5px;
+        padding: 10px;
+    }
+    .clickhere img{
+        position: relative;
+        
+        left:20%;
+        float: left;
+        width: 10vw;
+    }
+}
